@@ -42,7 +42,7 @@ export interface VRChatOwnUser extends VRChatUserBase {
   currentAvatar: string;
   currentAvatarAssetUrl: string;
   acceptedTOSVersion: number;
-  // Steam のアカウントからのアップグレードを行なった場合に出てきそう
+  // Steam It seems to come out when upgrading from the account of 
   // eslint-disable-next-line @typescript-eslint/no-explicit-any
   steamDetails: { [key: string]: any }; // FIXME
   hasLoggedInFromClient: boolean;

@@ -1,6 +1,7 @@
 export declare type VVRChatAvatarsReleaseStatus = "public" | "private" | "hidden";
 
 export interface VRChatAvatars {
+    assetUrl: string;
     authorId: string;
     name: string;
     authorName: string;
