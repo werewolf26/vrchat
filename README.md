@@ -1,7 +1,5 @@
 # VRChat JS
 
-[![CircleCI](https://circleci.com/gh/calmery/VRChatJS/tree/master.svg?style=svg)](https://circleci.com/gh/calmery/VRChatJS/tree/master)
-
 ## Usage
 
 See [VRChat API Documentation](https://vrchatapi.github.io)
